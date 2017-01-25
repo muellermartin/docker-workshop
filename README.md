@@ -1,4 +1,4 @@
-# Docker-workshop
+# Docker-Workshop
 
 Docker-Workshop at Docker User Group Bamberg.
 
